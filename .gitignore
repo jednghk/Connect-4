@@ -1,0 +1,4 @@
+.DS_Store
+.idea/
+__pycache__/
+c4_app/__pycache__/board.cpython-39.pyc
